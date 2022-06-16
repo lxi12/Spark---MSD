@@ -14,5 +14,3 @@ In particular, we will focuse on the following susbets:
 * Taste Profile subset (user-song plays)
 * Main subset (metadata)
 
-# Result
-![MultiClass_CM_downsample](https://user-images.githubusercontent.com/107531850/173997793-6ef595d5-54a1-49d6-a5d5-aa42ff7cf35a.png)
