@@ -1,6 +1,7 @@
 # Spark---MSD
 the Million Song Dataset (MSD), a project initiated by the The Echo Nest and LabROSA, and the core of the dataset is audio features and
 metadata for one million songs, provided by The Echo Nest. It also contains other datasets contributed by organizations and the community.
+More information could be found: http://millionsongdataset.com/
 
 # Task
 * Data Processing, explore the dataset
